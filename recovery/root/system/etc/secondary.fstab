@@ -1,0 +1,1 @@
+vendor						/vendor		    erofs	ro			wait,logical,first_stage_mount
